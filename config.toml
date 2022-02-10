@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://axiosnm.github.io/"
+baseURL = "https://axiosnm.com/"
 title = "Axios Technology"
 theme = "meghna-hugo"
 # post pagination
