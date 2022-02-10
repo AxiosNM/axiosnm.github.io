@@ -53,7 +53,7 @@ pre {
 
 ::selection {
   color: #fff;
-  background: #458588;
+  background: #d65d0e;
 }
 
 hr {
@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #458588;
+  color: #d65d0e;
 }
 
 .navbar-toggler:focus {
