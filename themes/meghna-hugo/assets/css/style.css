@@ -53,7 +53,7 @@ pre {
 
 ::selection {
   color: #fff;
-  background: #d65d0e;
+  background: #458588;
 }
 
 hr {
@@ -604,6 +604,12 @@ a:hover {
   bottom: -56.5685px;
   border-bottom: 2px solid rgba(236, 239, 241, 0.07);
   border-left: 2px solid rgba(236, 239, 241, 0.07);
+}
+
+.about .block .icon-box:hover,
+.about .block .icon-box:hover:before,
+.about .block .icon-box:hover:after {
+  border-color: rgb(152, 151, 26);
 }
 
 .about .block .icon-box h3 {
