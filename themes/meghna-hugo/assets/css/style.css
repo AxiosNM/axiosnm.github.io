@@ -648,14 +648,18 @@ a:hover {
   background-attachment: fixed;
 }
 
+.call-to-action::before {
+  background: rgba(0, 0, 0, 0.65);
+}
+
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #fff;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #fff;
 }
 
 .call-to-action .btn-main {
