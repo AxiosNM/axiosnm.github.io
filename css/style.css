@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #458588;
+  color: #d65d0e;
 }
 
 .navbar-toggler:focus {
@@ -606,6 +606,12 @@ a:hover {
   border-left: 2px solid rgba(236, 239, 241, 0.07);
 }
 
+.about .block .icon-box:hover,
+.about .block .icon-box:hover:before,
+.about .block .icon-box:hover:after {
+  border-color: rgb(152, 151, 26);
+}
+
 .about .block .icon-box h3 {
   color: #afbac4;
 }
@@ -642,14 +648,18 @@ a:hover {
   background-attachment: fixed;
 }
 
+.call-to-action::before {
+  background: rgba(0, 0, 0, 0.65);
+}
+
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #fff;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #fff;
 }
 
 .call-to-action .btn-main {
