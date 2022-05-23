@@ -1119,6 +1119,11 @@ a:hover {
   margin: 0 0 5px;
 }
 
+.member-meta h4:hover {
+  color: #d79921;
+  text-decoration: underline;
+}
+
 .member-meta span {
   font-size: 12px;
 }
