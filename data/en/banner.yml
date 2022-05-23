@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Axios Technology"
-  content : "Digital Forensics Services & Cyber Incident Reponse"
+  content : "Digital Forensics & Cyber Incident Reponse"
   button:
     enable : true
     label : "Explore"
