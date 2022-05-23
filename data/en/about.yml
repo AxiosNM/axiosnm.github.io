@@ -4,13 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Knowledgeable
+    content : We strive to keep on the forefront of modern technology. Through rigorous research and testing, we know technology platforms inside and out.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Experienced
+    content : We have examined hundreds of devices covering a wide range of technology, including smartphones/tablets, personal computers, servers, & cloud platforms.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
+    title : Dedicated
+    content : We take great pride in our ability to uncover the truth about the devices we analyze, no matter what it takes.
