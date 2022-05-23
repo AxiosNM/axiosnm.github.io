@@ -7,28 +7,34 @@ service:
     - name : Forensic Imaging
       icon : ti-harddrives # themify icon pack : https://themify.me/themify-icons
       content : With modern tools and techniques, we can acquire and preserve digital evidence
-      
+      urlslug : services/forensic-imaging
+
     # service item loop
     - name : Incident Response
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      urlslug : services/incident-response
+
     # service item loop
     - name : Data Recovery
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : USB or Hard Drive unreadable? There's a good chance we can recover that data.
-      
+      urlslug : services/data-recovery
+
     # service item loop
     - name : Expert Witness Services
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      urlslug : services/expert-witness
+
     # service item loop
     - name : Apps Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      urlslug : "#"
+
     # service item loop
     - name : Networking
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      urlslug : "#"
