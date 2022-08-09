@@ -66,7 +66,7 @@ weight = 7
 logo = "images/logo.png"
 # Meta data
 description = "Digital Forensics & Cyber Incident Response"
-author = "Themefisher"
+author = "Tommy Harris"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -123,4 +123,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2022 Tommy Harris | Design by [Themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2022 Axios Technology LLC | Theme by [Themefisher](https://themefisher.com)"

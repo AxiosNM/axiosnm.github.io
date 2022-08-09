@@ -3,9 +3,11 @@ cta:
   enable : true
   bg_image : "images/backgrounds/server-rack.jpg"
   bg_image_webp : "images/backgrounds/server-rack.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "New Mexico's Experts in Digital Forensics and Cyber Incident Response"
+  content : Are you investigating a smartphone or computer for litigation?
+            Trying to find out the cause or source of a Cloud breach?
+            We can help!
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Contact Us"
     link : "#contact"
