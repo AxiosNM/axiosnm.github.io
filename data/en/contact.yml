@@ -9,12 +9,15 @@ contact:
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Albuquerque, New Mexico"
+      link : "https://www.google.com/maps/place/Downtown,+Albuquerque"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +1 860 245 8814"
+      info : '+1 860 245 8814'
+      link : 'tel:+18602458814'
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: info@axiosnm.com"
+      info : "info@axiosnm.com"
+      link : "mailto:info@axiosnm.com"
 
 
   # Contact form
