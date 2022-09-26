@@ -5,11 +5,11 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Knowledgeable
-    content : We strive to keep on the forefront of modern technology. Through rigorous research and testing, we know technology platforms inside and out.
+    content : Through rigorous research and testing, we know technology platforms inside and out. We strive to keep on the forefront of this ever-changing landscape.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Experienced
-    content : We have examined hundreds of devices covering a wide range of technology, including smartphones/tablets, personal computers, servers, & cloud platforms.
+    content : Over the course of many years, we have examined hundreds of devices covering a wide range of technology, including smartphones/tablets, personal computers, servers, and cloud platforms.
 
   - icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
     title : Dedicated
