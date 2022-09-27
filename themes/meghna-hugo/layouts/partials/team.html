@@ -39,6 +39,11 @@
             <a href="{{ .urlslug | absURL }}"><h4>{{ .name }}</h4></a>
             <span>{{ .designation | markdownify}}</span>
             <p>{{ .content | markdownify }}</p>
+            <div class="read-more">
+              <a href="{{ .urlslug | absURL }}">
+                <span>READ MORE</span>
+              </a>
+            </div>
           </div>
         </div>
       </div>

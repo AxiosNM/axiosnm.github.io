@@ -17,43 +17,12 @@ team:
           link : "https://twitter.com/tobraha"
 
     # team member loop
-    - name : Myka
-      image_webp : images/team/myka.webp
-      image : images/team/myka.jpg
-      designation : Intruder Alarm
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Desmond
+    - name : John Harris
       image_webp : images/team/desmond.webp
       image : images/team/desmond.jpg
-      designation : Fetcher
+      designation : Director of Operations
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Hamish
-      image_webp : images/team/hamish.webp
-      image : images/team/hamish.jpg
-      designation : Master Infilatrator
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      urlslug : team/john-harris
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
