@@ -6,35 +6,24 @@ service:
     # service item loop
     - name : Forensic Imaging
       icon : ti-harddrives # themify icon pack : https://themify.me/themify-icons
-      content : With modern tools and techniques, we can acquire and preserve digital evidence
+      content : With modern tools and techniques, we can acquire and preserve digital evidence that will hold up in litigation.
       urlslug : services/forensic-imaging
 
-    # service item loop
     - name : Incident Response
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-layout
+      content : Cyber crime continues to be on the rise. We can track down the root of an initial breach and find out what really happened.
       urlslug : services/incident-response
 
-    # service item loop
     - name : Data Recovery
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : USB or Hard Drive unreadable? There's a good chance we can recover that data.
+      icon : ti-folder
+      content : USB or Hard Drive unreadable? Can't login to that old computer? There's a good chance we can recover that data!
       urlslug : services/data-recovery
 
-    # service item loop
     - name : Expert Witness Services
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-book
+      content : Computers and related technology can be complicated. Our court room experience can help you navigate these topics to present the facts.
       urlslug : services/expert-witness
 
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      urlslug : "#"
-
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      urlslug : "#"
+    - name : Cloud Computing
+      icon : ti-cloud
+      content : Modern technologies increasingly rely on cloud platforms. We know these technologies inside and out and can find answers for you.
