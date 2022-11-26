@@ -36,13 +36,15 @@
 
           {{"<!-- member name & designation -->" | safeHTML}}
           <div class="member-meta">
-            <a href="{{ .urlslug | absURL }}"><h4>{{ .name }}</h4></a>
+            <!--a href="{{ .urlslug | absURL }}"-->
+              <h4>{{ .name }}</h4>
+            <!--/a-->
             <span>{{ .designation | markdownify}}</span>
             <p>{{ .content | markdownify }}</p>
             <div class="read-more">
-              <a href="{{ .urlslug | absURL }}">
+              <!--a href="{{ .urlslug | absURL }}">
                 <span>READ MORE</span>
-              </a>
+              </a-->
             </div>
           </div>
         </div>
