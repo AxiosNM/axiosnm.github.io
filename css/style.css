@@ -549,7 +549,7 @@ a:hover {
 ==================================================================*/
 .about .block {
   background: #242930;
-  min-height: 425px;
+  min-height: 440px;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
