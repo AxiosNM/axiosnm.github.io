@@ -10,7 +10,7 @@
 						<img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" />
 					</a>
 					<br>
-					<p>{{ site.Params.copyright | markdownify }}</p>
+					<p>Copyright &copy; 2022-<span id="year"></span> {{ site.Params.copyright | markdownify }}</p>
 				</div>
 
 			</div>
@@ -32,6 +32,12 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify | fingerprint "sha384"}}
 <script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+
+<!-- dynamic copyright date -->
+<script>
+	var date = new Date().getFullYear();
+	document.getElementById("year").innerHTML = date;
+</script>
 
 <!-- cookie -->
 {{ if site.Params.cookies.enable }}
