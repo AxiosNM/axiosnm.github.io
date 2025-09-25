@@ -2,14 +2,15 @@
 baseURL = "https://axiosnm.com/"
 title = "Axios Technology"
 theme = "meghna-hugo"
-# post pagination
-paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+
+[pagination]
+pagerSize = "6"
 
 ############################# Plugins ##########################
 # css plugins
